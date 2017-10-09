@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Ivony.Html.Parser.Regulars</id>
+    <version>1.0.0</version>
+    <title>Ivony.Html.Parser.Regulars</title>
+    <authors>liujie</authors>
+    <owners>liujie</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>My package description.</description>
+    <summary />
+  </metadata>
+</package>

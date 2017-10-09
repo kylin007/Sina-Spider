@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Jumony.Core</id>
+    <version>3.0.15</version>
+    <title>Jumony Core &amp; Parser</title>
+    <authors>Ivony</authors>
+    <owners>Ivony</owners>
+    <licenseUrl>http://jumony.codeplex.com/license</licenseUrl>
+    <projectUrl>http://jumony.codeplex.com/</projectUrl>
+    <iconUrl>http://pic.cnblogs.com/avatar/a14218.jpg</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Jumony gives you the ability to manipulate the HTML</description>
+    <summary />
+    <releaseNotes />
+    <language>zh-CN</language>
+    <tags>HTML Web Parser Jumony</tags>
+    <dependencies>
+      <dependency id="Ivony.Core" version="[1.1, 1.2)" />
+    </dependencies>
+  </metadata>
+</package>

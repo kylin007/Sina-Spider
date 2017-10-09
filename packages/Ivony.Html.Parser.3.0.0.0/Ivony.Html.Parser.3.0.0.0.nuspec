@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Ivony.Html.Parser</id>
+    <version>3.0.0.0</version>
+    <title>Ivony.Html.Parser</title>
+    <authors>liujie</authors>
+    <owners>liujie</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Description</description>
+    <summary />
+    <copyright>Copyright ©  2010</copyright>
+  </metadata>
+</package>

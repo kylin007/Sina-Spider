@@ -1,0 +1,10 @@
+H:\skay\开发项目\电子商务\code\电商数据抓取\WebBot\bin\Debug\Skay.WebBot.dll
+H:\skay\开发项目\电子商务\code\电商数据抓取\WebBot\bin\Debug\Skay.WebBot.pdb
+H:\skay\开发项目\电子商务\code\电商数据抓取\WebBot\obj\Debug\WebBot.csprojResolveAssemblyReference.cache
+H:\skay\开发项目\电子商务\code\电商数据抓取\WebBot\obj\Debug\Skay.WebBot.dll
+H:\skay\开发项目\电子商务\code\电商数据抓取\WebBot\obj\Debug\Skay.WebBot.pdb
+E:\BIVS\抓取\WebBot\bin\Debug\Skay.WebBot.dll
+E:\BIVS\抓取\WebBot\bin\Debug\Skay.WebBot.pdb
+E:\BIVS\抓取\WebBot\obj\Debug\WebBot.csprojResolveAssemblyReference.cache
+E:\BIVS\抓取\WebBot\obj\Debug\Skay.WebBot.dll
+E:\BIVS\抓取\WebBot\obj\Debug\Skay.WebBot.pdb
